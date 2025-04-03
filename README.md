@@ -1,5 +1,5 @@
 # BLUE LOTUS - Mistral Knowledge
-Knowledge pipe and graph powered by MistralAI. Obsidian like, but compatible for all kind of data. App is modular and flexible to upgrade via developer or users.
+Knowledge Pipeline and Graph designed by using MistralAI. Similar to Obsidian, but compatible for all data types. The application is modular and flexible for upgrades by the developer or users.
 
 ![BLUE LOTUS](BLUELOTUS.png)
 
